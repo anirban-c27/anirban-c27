@@ -3,7 +3,7 @@
 <!--
 **anirban-c27/anirban-c27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ... many areas
 - 🌱 I’m currently learning ... Git, Flutter, Python
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... email: digitally.focussed@gmail.com
 - 😄 Pronouns: ... (he, him, his)
 - ⚡ Fun fact: ... 
--->
+
