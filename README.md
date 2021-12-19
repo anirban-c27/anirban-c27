@@ -13,4 +13,5 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ... email: digitally.focussed@gmail.com
 - 😄 Pronouns: ... (he, him, his)
 - ⚡ Fun fact: ... 
+-  I live in Kolkata, India.
 
